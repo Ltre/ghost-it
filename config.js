@@ -10,7 +10,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://180.76.128.66:11111/',
+        url: 'http://note.larele.com/',
         mail: {},
         database: {
             client: 'sqlite3',
